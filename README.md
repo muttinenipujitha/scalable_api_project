@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-Then open the URL shown by Vite (usually `http://localhost:5173`).
+Then open the URL shown by Vite (`http://localhost:5173`).
 
 Use the UI to:
 
